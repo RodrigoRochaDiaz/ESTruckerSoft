@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:fitsSystemWindows="true">
@@ -18,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Usuario"
+            android:hint="@string/user"
             android:inputType="textCapCharacters" />
 
 
@@ -27,20 +26,20 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:hint="Contraseña"
+            android:hint="@string/password"
             android:inputType="textPassword" />
 
         <CheckBox
             android:id="@+id/checkBoxRemember"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Recordar" />
+            android:text="@string/remember" />
 
         <Button
             android:id="@+id/buttonLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Iniciar Sesión" />
+            android:text="@string/singin" />
     </LinearLayout>
 
 </ScrollView>

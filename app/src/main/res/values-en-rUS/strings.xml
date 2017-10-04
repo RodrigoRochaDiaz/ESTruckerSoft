@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESTruckerSoft</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="singin">Login</string>
+    <string name="singin_start">Login</string>
+    <string name="user_register">Register</string>
+</resources>

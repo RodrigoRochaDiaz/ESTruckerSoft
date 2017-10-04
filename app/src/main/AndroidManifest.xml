@@ -38,7 +38,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".Activities.LoginActivity"
-            android:label="@string/app_name"></activity>
+            android:label="@string/app_name" />
         <activity
             android:name=".Activities.SplashActivity"
             android:theme="@style/SplashTheme">
@@ -48,7 +48,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activities.MainActivity"></activity>
+        <activity android:name=".Activities.MainActivity" />
+        <activity android:name=".Activities.StartActivity" />
+        <activity android:name=".Activities.UserRegistryActivity"></activity>
     </application>
 
 </manifest>
