@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ESTruckerSoft</string>
+    <string name="app_name">TruckerSoft</string>
     <string name="user">User</string>
     <string name="password">Password</string>
-    <string name="remember">Remember</string>
+    <string name="remember">Remember me?</string>
     <string name="singin">Login</string>
     <string name="singin_start">Login</string>
     <string name="user_register">Register</string>
     <string name="name">Name</string>
     <string name="Age">Age</string>
     <string name="email">Email</string>
+    <string name="phone">Phome</string>
     <string name="carnet">Carnet</string>
     <string name="username">User</string>
     <string name="newpassword">Password</string>
     <string name="new_password_repeat">Confirm Password</string>
     <string name="register">Register</string>
+    <string name="back">Back</string>
     <!--    MapBox Settings  -->
     <string name="access_token">pk.eyJ1Ijoicm9kcmlnb21hcGJveCIsImEiOiJjajEzMGkyazEwMHRqMzJwMTVjYjI5N2puIn0.K0Y5mPV4vWtHQMUOBmmA_g</string>
 </resources>

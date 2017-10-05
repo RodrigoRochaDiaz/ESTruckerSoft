@@ -84,7 +84,7 @@
             android:text="@string/register" />
 
         <Button
-            android:id="@+id/buttonLogin"
+            android:id="@+id/buttonBack"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/back" />
