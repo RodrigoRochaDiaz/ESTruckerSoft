@@ -20,7 +20,6 @@ public class SplashActivity extends ActivityBase {
         } else {
             goToActivity(StartActivity.class, Constants.DONT_USE_HISTORY);
         }
-        finish();
     }
 
     @Override
