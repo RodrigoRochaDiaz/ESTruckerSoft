@@ -6,4 +6,16 @@
     <string name="singin">Iniciar Sesión</string>
     <string name="singin_start">Entrar</string>
     <string name="user_register">Registrate</string>
+    <string name="name">Nombre</string>
+    <string name="Age">Edad</string>
+    <string name="email">Email</string>
+    <string name="phone">Teléfono</string>
+    <string name="carnet">Carnet</string>
+    <string name="username">Usuario</string>
+    <string name="newpassword">Contraseña</string>
+    <string name="new_password_repeat">Repetir Contraseña</string>
+    <string name="register">Registrar</string>
+    <string name="back">Regresar</string>
+    <!--    MapBox Settings  -->
+    <string name="access_token">pk.eyJ1Ijoicm9kcmlnb21hcGJveCIsImEiOiJjajEzMGkyazEwMHRqMzJwMTVjYjI5N2puIn0.K0Y5mPV4vWtHQMUOBmmA_g</string>
 </resources>

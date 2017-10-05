@@ -7,4 +7,14 @@
     <string name="singin">Login</string>
     <string name="singin_start">Login</string>
     <string name="user_register">Register</string>
+    <string name="name">Name</string>
+    <string name="Age">Age</string>
+    <string name="email">Email</string>
+    <string name="carnet">Carnet</string>
+    <string name="username">User</string>
+    <string name="newpassword">Password</string>
+    <string name="new_password_repeat">Confirm Password</string>
+    <string name="register">Register</string>
+    <!--    MapBox Settings  -->
+    <string name="access_token">pk.eyJ1Ijoicm9kcmlnb21hcGJveCIsImEiOiJjajEzMGkyazEwMHRqMzJwMTVjYjI5N2puIn0.K0Y5mPV4vWtHQMUOBmmA_g</string>
 </resources>
